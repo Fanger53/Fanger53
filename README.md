@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary><strong>GitHub Stats :octocat:</strong></summary>
+  <br>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fanger53&show_icons=true&bg_color=30,697aa2,d1b5cb&title_color=2d6892&icon_color=2d6892"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanger53&layout=compact&show_icons=true&bg_color=30,d1b5cb,697aa2&title_color=2d6892&icon_color=2d6892"></p>
+</details>
+
 <!--
 **Fanger53/Fanger53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
