@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="assets/images/tenor.gif" alt="welcome gif">
 
 <details>
   <summary><strong>GitHub Stats :octocat:</strong></summary>
