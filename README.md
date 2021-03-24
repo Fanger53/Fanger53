@@ -1,4 +1,4 @@
-<img src="assets/images/tenor.gif" alt="welcome gif">
+<img align="center" src="assets/images/tenor.gif" alt="welcome gif">
 
 <details>
   <summary><strong>GitHub Stats :octocat:</strong></summary>
