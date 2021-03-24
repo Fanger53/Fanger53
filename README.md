@@ -1,5 +1,6 @@
-<img align="center" src="assets/images/tenor.gif" alt="welcome gif">
-
+<p align="center">
+  <img  src="assets/images/tenor.gif" alt="welcome gif">
+</p>
 <details>
   <summary><strong>GitHub Stats :octocat:</strong></summary>
   <br>
